@@ -1,0 +1,7 @@
+﻿  MathGame.cpp
+D:\ProjectsProgram\ProblemsSolvingLevelTwo\Projects\Project2\MathGame\MathGame.cpp(240,16): warning C4101: 'FinalResult': unreferenced local variable
+D:\ProjectsProgram\ProblemsSolvingLevelTwo\Projects\Project2\MathGame\MathGame.cpp(239,14): warning C4101: 'Answer': unreferenced local variable
+D:\ProjectsProgram\ProblemsSolvingLevelTwo\Projects\Project2\MathGame\MathGame.cpp(85,1): warning C4715: 'OperationType': not all control paths return a value
+D:\ProjectsProgram\ProblemsSolvingLevelTwo\Projects\Project2\MathGame\MathGame.cpp(66,1): warning C4715: 'QustionsLevel': not all control paths return a value
+D:\ProjectsProgram\ProblemsSolvingLevelTwo\Projects\Project2\MathGame\MathGame.cpp(161,1): warning C4715: 'EvaluateMathOp': not all control paths return a value
+  MathGame.vcxproj -> D:\ProjectsProgram\ProblemsSolvingLevelTwo\Projects\Project2\MathGame\x64\Debug\MathGame.exe
